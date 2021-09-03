@@ -1,0 +1,11 @@
+body    {
+    font-family: "arial";
+    max-width: 600px;
+    width: 100%;
+    margin: 0px auto;
+
+}
+h2, h3, h4 {
+    color: rgb(54, 54, 187);
+
+}
